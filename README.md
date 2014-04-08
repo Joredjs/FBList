@@ -1,0 +1,1 @@
+This  is a little pluggin for validate is the facebook's user s not fake, and detect if this user is reported as a treasure's hunter.
